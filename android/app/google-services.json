@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "331381691640",
+    "project_id": "cafescale-10",
+    "storage_bucket": "cafescale-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:0dfa605c4b7671c5ab170d",
+        "android_client_info": {
+          "package_name": "com.alshamkitchen.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:d542ad9bac30b414ab170d",
+        "android_client_info": {
+          "package_name": "com.bigcharcoal.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:b9fc5440b82880ddab170d",
+        "android_client_info": {
+          "package_name": "com.cislosfamily.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:2a03931ed80bf535ab170d",
+        "android_client_info": {
+          "package_name": "com.detroitconeyisland.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:d908a661808f7de0ab170d",
+        "android_client_info": {
+          "package_name": "com.easystreetburgers.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:4069516c7acdd830ab170d",
+        "android_client_info": {
+          "package_name": "com.italiandreamspizza.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:49f4941b4303cc71ab170d",
+        "android_client_info": {
+          "package_name": "com.lebonchoix.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:5c8bd4cd3a77ad88ab170d",
+        "android_client_info": {
+          "package_name": "com.myshishtaouk.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:76b01021ff49f0a7ab170d",
+        "android_client_info": {
+          "package_name": "com.piancapizza.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:0cb831d1569cfde2ab170d",
+        "android_client_info": {
+          "package_name": "com.speranzaitalian.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331381691640:android:cccb5c126e72efdcab170d",
+        "android_client_info": {
+          "package_name": "com.zakygrill.fasttech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFqPLosPOpyMlv9ZhUa2_GK0gwkaShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
